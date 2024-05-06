@@ -1,0 +1,2 @@
+# Hospital-Management-System
+A Java based application where the UI is created using Java Swing and MySQL serves as a database. In this application, upon log in as an admin, you can add and manage doctor and patient information, including appointment scheduling. If log in as a doctor, you have the privilege to update your own details, access patient information, and provide prescription according to their respective medical conditions. Finally, log in as a patient, you can view your prescription.
